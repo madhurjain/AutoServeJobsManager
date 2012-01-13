@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoServeJobsManager", "AutoServeJobsManager\AutoServeJobsManager.csproj", "{16CBD6B1-C2F2-472F-BB8C-549C1278439A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AutoServeSetup", "AutoServeSetup\AutoServeSetup.vdproj", "{333C7F3C-809D-4E57-A661-15913B76DC83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16CBD6B1-C2F2-472F-BB8C-549C1278439A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16CBD6B1-C2F2-472F-BB8C-549C1278439A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16CBD6B1-C2F2-472F-BB8C-549C1278439A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16CBD6B1-C2F2-472F-BB8C-549C1278439A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{333C7F3C-809D-4E57-A661-15913B76DC83}.Debug|Any CPU.ActiveCfg = Debug
+		{333C7F3C-809D-4E57-A661-15913B76DC83}.Release|Any CPU.ActiveCfg = Release
+		{333C7F3C-809D-4E57-A661-15913B76DC83}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

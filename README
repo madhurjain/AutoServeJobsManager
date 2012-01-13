@@ -1,0 +1,4 @@
+Autoserve is a printer sales and service firm. I alongwith my buddy intelomkar developed this software application 
+to efficiently manage the printer service job. The application was used by the client to generate the job card and 
+maintain a history of printer service. The application sends automated SMS through a Cell Phone / GSM Modem connected 
+to the PC using AT commands. Requires MySQL Server.
