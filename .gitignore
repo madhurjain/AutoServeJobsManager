@@ -4,5 +4,9 @@ obj
 Debug
 Release
 
+#User Specific Files
+*.user
+*.suo
+
 # mstest test results
 TestResults
