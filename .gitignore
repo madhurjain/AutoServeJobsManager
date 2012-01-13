@@ -5,8 +5,8 @@ Debug
 Release
 
 #User Specific Files
-#*.user
-#*.suo
+*.user
+*.suo
 
 # mstest test results
 TestResults
